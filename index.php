@@ -168,7 +168,7 @@ English A/Level		01.P.M.-05.P.M.		Tuesday
         </div>
     <?php } ?>
     
-	<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	
 	<marquee  bgcolor='#35394a' height='82px'  scrollamount='2'> <pre><font color='white' size='80px'>UWS Academy,Upper Flow,Hiru Graphics,Preman Mawatha,Anuradhapura		admin@uwsacademy.com 		025-4319653		0764895740</font> <pre> </marquee>
 	</p>
     
